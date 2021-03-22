@@ -1,0 +1,4 @@
+In order to predict, you need to download this file of the dog images used for training and validation
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
+then save it under FILE_FOLDER/data/dog_images
