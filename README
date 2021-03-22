@@ -2,3 +2,8 @@ In order to predict, you need to download this file of the dog images used for t
 https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
 then save it under FILE_FOLDER/data/dog_images
+
+move "bottleneck_features" to a new file called ./data
+move "dog_images" into the ./data file
+
+
